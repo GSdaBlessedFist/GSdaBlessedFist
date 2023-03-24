@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next-Auth, Docker, MongoDB**
 
-- 👨‍💻 All of my projects are available at [technically-thatguy.tk](technically-thatguy.tk)
+- 👨‍💻 All of my projects are available at [technically-thatguy.tk](https://www.technically-thatguy.tk)
 
 - 💬 Ask me about **Nextjs/ GSAP / MongoDB**
 
