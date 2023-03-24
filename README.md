@@ -1,9 +1,9 @@
-<h1 align="center">Greetings 👋, I'm I'm Jason Zamora</h1>
+<h1 align="center">Greetings 👋, I'm Jason Zamora</h1>
 <h3 align="center">Web Developer + Doodlesmith</h3>
 
 - 🔭 I’m currently working on **an app that focuses on decreasing wasted time overusing Youtube.**
 
-- 🌱 I’m currently learning **Next-Auth, Docker,**
+- 🌱 I’m currently learning **Next-Auth, Docker,MongoDB**
 
 - 👨‍💻 All of my projects are available at [technically-thatguy.tk](technically-thatguy.tk)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gsdablessedfist@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFSP2xDNz0/UQQORv-3S8Ac5iUvGnPBdQ/view?utm_content=DAFSP2xDNz0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1](https://www.canva.com/design/DAFSP2xDNz0/UQQORv-3S8Ac5iUvGnPBdQ/view?utm_content=DAFSP2xDNz0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
+- 📄 Know about my experiences [my resume](https://www.canva.com/design/DAFSP2xDNz0/UQQORv-3S8Ac5iUvGnPBdQ/view?utm_content=DAFSP2xDNz0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
 - ⚡ Fun fact **I'm currently working on a syncretist theory, combining the Taoist 5 elements (Shen-nong) and the fundamentals of web-development.**
 
