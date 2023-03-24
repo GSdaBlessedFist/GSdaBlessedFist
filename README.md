@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app that focuses on decreasing wasted time overusing Youtube.**
 
-- 🌱 I’m currently learning **Next-Auth, Docker,MongoDB**
+- 🌱 I’m currently learning **Next-Auth, Docker, MongoDB**
 
 - 👨‍💻 All of my projects are available at [technically-thatguy.tk](technically-thatguy.tk)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [my resume](https://www.canva.com/design/DAFSP2xDNz0/UQQORv-3S8Ac5iUvGnPBdQ/view?utm_content=DAFSP2xDNz0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
-- ⚡ Fun fact **I'm currently working on a syncretist theory, combining the Taoist 5 elements (Shen-nong) and the fundamentals of web-development.**
+- ⚡ Fun fact **I'm currently working on a syncretistic theory, combining the Taoist 5 elements (Shen-nong) and the fundamentals of web-development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
