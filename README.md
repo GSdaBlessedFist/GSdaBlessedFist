@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app that focuses on decreasing wasted time overusing Youtube.**
 
-- 🌱 I’m currently learning **Next-Auth, Docker, MongoDB**
+- 🌱 I’m currently learning **Storybook 7**
 
 - 👨‍💻 All of my projects are available at [technically-thatguy.tk](https://www.technically-thatguy.tk)
 
