@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Jason Zamora</h1>
 <h3 align="center">Web Developer + Doodlesmith</h3>
 
-- 🔭 I’m currently working on **my original interactive graphic novel.**
+- 🔭 I’m currently working on a **tax allocation app**
 
 - 🌱 Currently learning/building with **Medusa.JS** (*open source ecommerce platform*) and the **Stripe API**
 
